@@ -1,3 +1,3 @@
 # usr-repo
-My first repositoryg
-I love :pizza: :baseball:, and :musicggg
+My first repository
+I love :pizza: :baseball:, and :music:.
